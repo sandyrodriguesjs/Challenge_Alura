@@ -36,10 +36,10 @@ Clone o repositório ou copie o código.
 
 Compile o arquivo Java:
 
-javac ConversorDeMoedas.java
+*javac ConversorDeMoedas.java*
 
 Execute o programa:
 
-java ConversorDeMoedas
+*java ConversorDeMoedas*
 
 
